@@ -1,12 +1,7 @@
 #!/usr/bin/env bash
 
-#SBATCH --gres=gpu:rtxa6000:2
-# SBATCH --nodelist=g126
-#SBATCH -p compute
-#!/usr/bin/env bash
-
-#SBATCH --gres=gpu:rtxa6000:2
-# SBATCH --nodelist=g126
+#SBATCH --gres=gpu:rtxa6000:1
+#SBATCH --nodelist=g122
 #SBATCH -p compute
 #SBATCH -J captions
 #SBATCH -t 23:59:59
