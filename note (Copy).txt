@@ -1,0 +1,2 @@
+This code contains script to use doc-mte metrics on local repository
+
