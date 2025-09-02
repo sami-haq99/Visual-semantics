@@ -3,10 +3,11 @@ from PIL import Image
 import requests
 import torch
 import gc
+import sys
 
 torch.set_float32_matmul_precision('high')
 
-model_id = "./gemma-3-12b-it"
+model_id = "/home/shaq/spinning-storage/shaq/gemma-3-12b-it"
 
 model = Gemma3ForConditionalGeneration.from_pretrained(
     model_id, device_map="auto"
@@ -14,64 +15,94 @@ model = Gemma3ForConditionalGeneration.from_pretrained(
 
 processor = AutoProcessor.from_pretrained(model_id, use_fat = True)
 
+
+#dictionary with language and corresponding prompt
+language_prompts = {
+    "zh": "用中文单句描述图像",
+    "en": "Describe the image in a single sentence in English",
+    "fr": "Décrivez l'image en une seule phrase en français",
+    "de": "Beschreiben Sie das Bild in einem einzigen Satz auf Deutsch",
+    "es": "Describe la imagen en una sola frase en español",
+}
+
+
 # Directory containing your images
-file_names = []
-with open("../test-set/commute/en-zh/img.order", "r") as file:
-    file_names = [line.strip() for line in file if line.strip()]
+#read below from command line args
+
+def generate_caption(language, image_dir, output_file, image_name_file):
     
-  # Limit to 1000 images for testing
+    file_names = []
+    with open(image_name_file, "r") as file:
+        file_names = [line.strip() for line in file if line.strip()]
+        
 
-output_file = "captions-commute-gemma3b.zh"
+    # Supported image extensions
+    image_extensions = (".jpg", ".jpeg", ".png", ".bmp", ".gif")
 
-# Supported image extensions
-image_extensions = (".jpg", ".jpeg", ".png", ".bmp", ".gif")
+    image_paths = [image_dir + file_name for file_name in file_names]
 
-image_paths = ["../test-set/commute/images/images/" + file_name for file_name in file_names]
+    with open(output_file + f"/captions-{language}-gemma3b.txt", "w", encoding="utf-8") as f:
+        for filename in image_paths:
+            if filename.lower().endswith(image_extensions):
+                try:
 
-with open(output_file, "w", encoding="utf-8") as f:
-    for filename in image_paths:
-        if filename.lower().endswith(image_extensions):
-            try:
+                    image = Image.open(filename).convert("RGB")
+                    max_size = (512, 512)
 
-                image = Image.open(filename).convert("RGB")
-                max_size = (512, 512)
+                    # Only downscale if needed
+                    if image.size[0] > max_size[0] or image.size[1] > max_size[1]:
+                        image.thumbnail(max_size)
+                        
+                    messages = [
+                        {
+                            "role": "system",
+                            "content": [{"type": "text", "text": "You are a helpful assistant."}]
+                        },
+                        {
+                            "role": "user",
+                            "content": [
+                                {"type": "image", "image": image},
+                                {"type": "text", "text": language_prompts[language]}
+                            ]
+                        }
+                    ]
 
-                # Only downscale if needed
-                if image.size[0] > max_size[0] or image.size[1] > max_size[1]:
-                    image.thumbnail(max_size)
+                    inputs = processor.apply_chat_template(
+                        messages, add_generation_prompt=True, tokenize=True,
+                        return_dict=True, return_tensors="pt"
+                    ).to(model.device, dtype=torch.bfloat16)
+
+                    input_len = inputs["input_ids"].shape[-1]
+
+                    with torch.inference_mode():
+                        generation = model.generate(**inputs, max_new_tokens=100, do_sample=False)
+                        generation = generation[0][input_len:]
+
+                    decoded = processor.decode(generation, skip_special_tokens=True)
+
+                    f.write(f"{decoded.strip()}\n")
                     
-                messages = [
-                    {
-                        "role": "system",
-                        "content": [{"type": "text", "text": "You are a helpful assistant."}]
-                    },
-                    {
-                        "role": "user",
-                        "content": [
-                            {"type": "image", "image": image},
-                            {"type": "text", "text": "用中文单句描述图像"}
-                        ]
-                    }
-                ]
+                    del inputs, generation
+                    torch.cuda.empty_cache()
+                    gc.collect()
+                    
+                except Exception as e:
+                    print(f"Failed to process {filename}: {e}")
 
-                inputs = processor.apply_chat_template(
-                    messages, add_generation_prompt=True, tokenize=True,
-                    return_dict=True, return_tensors="pt"
-                ).to(model.device, dtype=torch.bfloat16)
+if __name__ == "__main__":
 
-                input_len = inputs["input_ids"].shape[-1]
+    if len(sys.argv) != 5:
+        print("Usage: python ic-gemma3b.py <image_name_file> <output_file> <language_code> <image_dir>")
+        sys.exit(1)
+    image_name_file = sys.argv[1]
+    output_file = sys.argv[2]
+    language = sys.argv[3]
+    image_dir = sys.argv[4]
 
-                with torch.inference_mode():
-                    generation = model.generate(**inputs, max_new_tokens=100, do_sample=False)
-                    generation = generation[0][input_len:]
+    if language not in language_prompts:
+        print(f"Unsupported language code: {language}")
+        sys.exit(1)
 
-                decoded = processor.decode(generation, skip_special_tokens=True)
+    generate_caption(language, image_dir, output_file, image_name_file)
 
-                f.write(f"{decoded.strip()}\n")
-                
-                del inputs, generation
-                torch.cuda.empty_cache()
-                gc.collect()
-                
-            except Exception as e:
-                print(f"Failed to process {filename}: {e}")
+
