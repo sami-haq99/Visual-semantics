@@ -18,10 +18,9 @@ processor = AutoProcessor.from_pretrained(model_id, use_fat = True)
 
 #dictionary with language and corresponding prompt
 language_prompts = {
-    "zh": "用中文单句描述图像",
-    "en": "Describe the image in a single sentence in English",
-    "fr": "Décrivez l'image en une seule phrase en français",
-    "de": "Beschreiben Sie das Bild in einem einzigen Satz auf Deutsch",
+    "en": "Describe the image in a single sentence in English, Provide only the description, nothing else.",
+    "fr": "Décrivez l'image en français en une seule phrase. Ne fournissez que la description, rien d'autre.",
+    "de": "Beschreiben Sie das Bild in einem Satz auf Deutsch. Geben Sie nur die Beschreibung an, sonst nichts.",
     "cs": "Popište obrázek jednou větou v češtině, uveďte pouze popis, žádné další informace.",
 }
 
