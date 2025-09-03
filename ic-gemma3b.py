@@ -9,11 +9,14 @@ torch.set_float32_matmul_precision('high')
 
 model_id = "/home/shaq/spinning-storage/shaq/gemma-3-12b-it"
 
-model = Gemma3ForConditionalGeneration.from_pretrained(
-    model_id, device_map="auto"
-).eval()
+def load_model():
+    model = Gemma3ForConditionalGeneration.from_pretrained(
+        model_id, device_map="auto"
+    ).eval()
 
-processor = AutoProcessor.from_pretrained(model_id, use_fat = True)
+    processor = AutoProcessor.from_pretrained(model_id, use_fat=True)
+
+    return model, processor
 
 
 #dictionary with language and corresponding prompt
@@ -65,7 +68,8 @@ def generate_caption(language, image_dir, output_file, image_name_file):
                             ]
                         }
                     ]
-
+                    model, processor = load_model()
+                    
                     inputs = processor.apply_chat_template(
                         messages, add_generation_prompt=True, tokenize=True,
                         return_dict=True, return_tensors="pt"
