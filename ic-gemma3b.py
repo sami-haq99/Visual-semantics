@@ -22,7 +22,7 @@ language_prompts = {
     "en": "Describe the image in a single sentence in English",
     "fr": "Décrivez l'image en une seule phrase en français",
     "de": "Beschreiben Sie das Bild in einem einzigen Satz auf Deutsch",
-    "es": "Describe la imagen en una sola frase en español",
+    "cs": "Popište obrázek jednou větou v češtině, uveďte pouze popis, žádné další informace.",
 }
 
 
