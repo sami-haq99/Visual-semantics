@@ -22,15 +22,17 @@ def load_model():
 #dictionary with language and corresponding prompt
 language_prompts = {
     "en": "Translate the following sentence into English, using the image as context. Output only the translation, nothing else.",
-    "cs": "Translate the following sentence into Czech, using the image as context. Output only the translation, nothing else.."
+    "cs": "Translate the following sentence into Czech, using the image as context. Output only the translation, nothing else.",
+    "de": "Translate the following sentence into German, using the image as context. Output only the translation, nothing else.",
+    "fr": "Translate the following sentence into French, using the image as context. Output only the translation, nothing else.",
 }
 
 
 # Directory containing your images
 #read below from command line args
 
-def generate_translation(language, image_dir, source_file, output_file, image_name_file):
-    
+def generate_translation(language, image_dir, source_file, output_file, image_name_file, model, processor):
+
     file_names = []
     with open(image_name_file, "r") as file:
         file_names = [line.strip() for line in file if line.strip()]
@@ -46,7 +48,7 @@ def generate_translation(language, image_dir, source_file, output_file, image_na
 
     image_paths = [image_dir + file_name for file_name in file_names]
     
-    model, processor = load_model()
+   
     
     with open(output_file + f"/gemma-3.{language}", "w", encoding="utf-8") as f:
         for filename, text in zip(image_paths, source_text):
@@ -118,7 +120,8 @@ if __name__ == "__main__":
     print(f"Image directory: {image_dir}")
     print(f"Source file: {source_file}")
     print(f"Output file: {output_file}/gemma-3.{language}")
+    model, processor = load_model()
     
-    generate_translation(language, image_dir, source_file, output_file, image_name_file)
-
-
+    languages = ["de", "fr", "cs"]
+    for language in languages:
+        generate_translation(language, image_dir, source_file, output_file, image_name_file, model, processor)
