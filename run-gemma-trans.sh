@@ -21,5 +21,5 @@ source_file="${root_dir}test_2016_flickr.cs"
 image_dir="${root_dir}images/"
 
 for lang in "${language[@]}"; do
-    python gemma-3-12b-trans.py $image_name_file $output_file $source_file $lang $image_dir
+    python gemma-3-12b-trans.py $image_name_file $output_file $lang $image_dir $source_file
 done
