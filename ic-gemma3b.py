@@ -68,7 +68,6 @@ def generate_caption(language, image_dir, output_file, image_name_file):
                             ]
                         }
                     ]
-                    model, processor = load_model()
                     
                     inputs = processor.apply_chat_template(
                         messages, add_generation_prompt=True, tokenize=True,
