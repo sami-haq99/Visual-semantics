@@ -42,7 +42,9 @@ def generate_caption(language, image_dir, output_file, image_name_file):
     image_extensions = (".jpg", ".jpeg", ".png", ".bmp", ".gif")
 
     image_paths = [image_dir + file_name for file_name in file_names]
-
+    
+    model, processor = load_model()
+    
     with open(output_file + f"/captions-{language}-gemma3b.txt", "w", encoding="utf-8") as f:
         for filename in image_paths:
             if filename.lower().endswith(image_extensions):
@@ -68,6 +70,10 @@ def generate_caption(language, image_dir, output_file, image_name_file):
                             ]
                         }
                     ]
+<<<<<<< HEAD
+=======
+                    
+>>>>>>> 768aa7c993d8b4dd14cb785f5d2db9ff12629d9c
                     
                     inputs = processor.apply_chat_template(
                         messages, add_generation_prompt=True, tokenize=True,
