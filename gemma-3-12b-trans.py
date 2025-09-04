@@ -122,6 +122,4 @@ if __name__ == "__main__":
     print(f"Output file: {output_file}/gemma-3.{language}")
     model, processor = load_model()
     
-    languages = ["de", "fr", "cs"]
-    for language in languages:
-        generate_translation(language, image_dir, source_file, output_file, image_name_file, model, processor)
+    generate_translation(language, image_dir, source_file, output_file, image_name_file, model, processor)
