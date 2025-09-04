@@ -70,10 +70,6 @@ def generate_caption(language, image_dir, output_file, image_name_file):
                             ]
                         }
                     ]
-<<<<<<< HEAD
-=======
-                    
->>>>>>> 768aa7c993d8b4dd14cb785f5d2db9ff12629d9c
                     
                     inputs = processor.apply_chat_template(
                         messages, add_generation_prompt=True, tokenize=True,
