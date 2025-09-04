@@ -39,6 +39,8 @@ def generate_translation(language, image_dir, source_file, output_file, image_na
     with open(source_file, "r") as file:
         source_text = [line.strip() for line in file if line.strip()]
 
+    file_names = file_names[:10]
+    source_text = source_text[:10]
     # Supported image extensions
     image_extensions = (".jpg", ".jpeg", ".png", ".bmp", ".gif")
 
@@ -112,6 +114,11 @@ if __name__ == "__main__":
         print(f"Unsupported language code: {language}")
         sys.exit(1)
 
+    print(f"Generating translations for language: {language}")
+    print(f"Image directory: {image_dir}")
+    print(f"Source file: {source_file}")
+    print(f"Output file: {output_file}/gemma-3.{language}")
+    
     generate_translation(language, image_dir, source_file, output_file, image_name_file)
 
 
