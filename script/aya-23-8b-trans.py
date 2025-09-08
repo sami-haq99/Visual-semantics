@@ -38,7 +38,7 @@ def generate_translation(language, source_file, output_file, model, tokenizer):
         with open(source_file, "r") as file:
             source_text = [line.strip() for line in file if line.strip()]
 
-        source_text = source_text[:100]  # Limit to first 100 lines for testing   
+       # source_text = source_text[:10]  # Limit to first 100 lines for testing   
         name_src = source_file.split("/")[-1].split(".")[0]
         with open(output_file+f"/{name_src}_aya-23.{language}", "w") as f:
             for text in source_text:
