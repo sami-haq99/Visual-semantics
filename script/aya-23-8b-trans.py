@@ -8,7 +8,7 @@ import sys
 
 torch.set_float32_matmul_precision('high')
 
-model_id = "/home/support/llm/aya-23-8b"
+model_id = "/home/support/llm/aya-23-8B"
 
 def load_model():
     
