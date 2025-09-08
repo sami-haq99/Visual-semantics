@@ -72,7 +72,9 @@ def generate_translation(language, source_file, output_file, model, tokenizer):
 
                 # Decode and clean the output
                 gen_text = tokenizer.decode(gen_tokens[0], skip_special_tokens=True)
-                
+                if "<|CHATBOT_TOKEN|>" in gen_text:
+                    gen_text = gen_text.split("<|CHATBOT_TOKEN|>")[-1].strip()
+
                 f.write(f"{gen_text.strip()}\n")
                 
                 del gen_text, gen_tokens
