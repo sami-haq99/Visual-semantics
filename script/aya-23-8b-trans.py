@@ -8,12 +8,18 @@ import sys
 
 torch.set_float32_matmul_precision('high')
 
-model_id = "/home/support/llm/aya-23-8b"
+model_id = "/home/support/llm/aya-23-8B"
 
 def load_model():
     
     tokenizer = AutoTokenizer.from_pretrained(model_id)
-    model = AutoModelForCausalLM.from_pretrained(model_id)
+    #model = AutoModelForCausalLM.from_pretrained(model_id)
+    model = AutoModelForCausalLM.from_pretrained(
+    model_id,
+    torch_dtype=torch.float16,      # reduces memory 2x
+    device_map="auto",              # spreads across available GPUs
+)
+
     
     return model, tokenizer
 
@@ -55,7 +61,7 @@ def generate_translation(language, source_file, output_file, model, tokenizer):
                     tokenize=True,
                     add_generation_prompt=True,
                     return_tensors="pt"
-                )
+                ).to(model.device) 
 
                 # Generate translation
                 gen_tokens = model.generate(
