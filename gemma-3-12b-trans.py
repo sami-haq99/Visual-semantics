@@ -41,8 +41,7 @@ def generate_translation(language, image_dir, source_file, output_file, image_na
     with open(source_file, "r") as file:
         source_text = [line.strip() for line in file if line.strip()]
 
-    file_names = file_names[:10]
-    source_text = source_text[:10]
+
     # Supported image extensions
     image_extensions = (".jpg", ".jpeg", ".png", ".bmp", ".gif")
 
