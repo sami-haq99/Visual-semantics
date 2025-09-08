@@ -98,3 +98,9 @@ if __name__ == "__main__":
     print("Model loaded successfully.")
     
     generate_translation(language, source_file, output_file, model, tokenizer)
+
+    print("Translation generation completed.")
+    
+    del model, tokenizer
+    torch.cuda.empty_cache()
+    gc.collect()
