@@ -67,8 +67,7 @@ def generate_translation(language, source_file, output_file, model, tokenizer):
                 gen_tokens = model.generate(
                     input_ids,
                     max_new_tokens=100,
-                    do_sample=True,
-                    temperature=0.0,
+                    do_sample=False,
                 )
 
                 # Decode and clean the output
