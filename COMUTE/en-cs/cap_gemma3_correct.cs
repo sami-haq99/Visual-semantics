@@ -214,8 +214,6 @@ Na obrázku jsou dva psi na vodítkách, kteří se radostně prohánějí po ze
 Na obrázku je skupina cyklistů, včetně jednoho v čele, závodících na nezpůsobené silnici s diváky a mlýnem v pozadí.
 Na obrázku je chlazená plechovka Coca-Coly s kapkami vody na povrchu.
 Obrázek zobrazuje bílý prášek na černém povrchu, na který je nasazená bankovka a tenkým předmětem (pravděpodobně dolarovou bankovkou) je z něj nabíraná linka.
-
-**Důležité upozornění:** Tento obrázek zobrazuje potenciálně nebezpečnou a nezákonnou činnost. Pokud máte problémy s užíváním drog, vyhledejte pomoc.
 Na obrázku je belgický ovčák v ochranné vestě a muzzles, pravděpodobně sloužící jako vojenský pes.
 Na obrázku je portrét statného psa s rezavě hnědou srstí, tmavýma očima a vousy, který se dívá přímo do kamery.
 Na obrázku je ležící levhart s mohutnou hřívou, který se široce zívá.
