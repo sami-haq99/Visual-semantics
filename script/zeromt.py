@@ -8,27 +8,26 @@ import sys
 def load_model():
     
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = create_model(model_path="/home/shaq/zero-mt/matthieufp/ZeroMMT-3.3B",cache_dir=".",
+    model = create_model(model_path="matthieufp/ZeroMMT-3.3B", cache_dir=".",
                         enable_cfg=False).to(device)
     model.eval()
     
     return model
     
 
-tgt_lang = "deu_Latn"
-
 def generate_translation(model, src_file, image_paths, image_dir, src_lang, tgt_lang, output_dir):
     
     src_texts = []
-    with open(src_file, "r") as src_file:
-        src_texts = [line.strip() for line in src_file if line.strip()]
+    with open(src_file, "r") as src:
+        src_texts = [line.strip() for line in src if line.strip()]
     
     file_names = []
     with open(image_paths, "r") as file:
         file_names = [line.strip() for line in file if line.strip()]
     
     src_file_name = src_file.split("/")[-1].split(".")[0]
-    with open(output_dir + src_file_name + ".{tgt_lang[:2]}", "w") as output_file:
+    print("src file name", src_file_name)
+    with open(f"{output_dir}{src_file_name}-zeromt.{tgt_lang[:2]}", "w") as output_file:
         for file_name, src_text in zip(file_names, src_texts):
 
             image = Image.open(image_dir+file_name)
@@ -40,12 +39,16 @@ def generate_translation(model, src_file, image_paths, image_dir, src_lang, tgt_
                                         beam_size=4)
             translation = model.tokenizer.batch_decode(generated, skip_special_tokens=True)
             output_file.write(f"{translation[0]}\n")
+            del generated, translation, image
+            torch.cuda.empty_cache()
+
 
 if __name__ == "__main__":
     
     if len(sys.argv) != 6:
         print("Usage: python ic-gemma3b.py <image_name_file> <output_file> <language_code> <image_dir> <source_file>")
         sys.exit(1)
+   
     src_lang = "eng_Latn"
     image_name_file = sys.argv[1]
     output_file = sys.argv[2]
