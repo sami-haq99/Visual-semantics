@@ -111,8 +111,6 @@ Začal opravovat své zásuvky.
 Víš, kde jsou moje kalhoty?
 Víš, kde jsou moje kraťasy?
 Je dois attendre que la maîtresse m'interroge pour prendre la parole.
-
-Musím počkat, až mě učitelka vyslechne, než promluvím.
 Vyrobil jste ten stůl?
 Dejte mi účtenku.
 Dejte mi ten bankovku.
