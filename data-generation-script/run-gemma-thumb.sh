@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#SBATCH --gres=gpu:a600:1
+#SBATCH --gres=gpu:a100:1
 #SBATCH --mem=100000
 #SBATCH -p compute
 #SBATCH -J cap_far
