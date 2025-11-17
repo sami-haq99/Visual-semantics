@@ -11,7 +11,7 @@ def read_input_files(file_path: str):
 def generate_score(hyp, refs, metric):
     
     if metric == "bleu":
-        method = BLEU()
+        method = BLEU(effective_order=True)
     elif metric == "chrf":
         method = CHRF()
     elif metric == "ter":
@@ -25,7 +25,12 @@ def generate_score(hyp, refs, metric):
     # Segment-level scores
     seg_scores = []
     for i, hyp in enumerate(hyp):
-        seg_score = method.sentence_score(hyp, [refs[0][i]]).score
+        
+        if isinstance(refs, list):
+            # If there's only one reference, use it directly
+            seg_score = method.sentence_score(hyp, [refs[0][i]]).score
+        else:
+            seg_score = method.sentence_score(hyp, refs[i]).score
         seg_scores.append(seg_score)
     
     
@@ -56,7 +61,7 @@ def evaluate_folder(base_dir,  systems=("aya", "gemma", "zeromt", "opusmt"),
                 if not os.path.exists(cand_file):
                     continue
                 
-                ref_file = os.path.join(test_path, f"ref.{lang}")
+                ref_file = os.path.join(test_path, f"ref_bad.{lang}")
                 refs = read_input_files(ref_file)
                 refs = [refs]  # sacrebleu expects a list of reference lists
 
@@ -71,7 +76,7 @@ def evaluate_folder(base_dir,  systems=("aya", "gemma", "zeromt", "opusmt"),
                 }
 
     # save everything into one JSON
-    out_file = os.path.join(base_dir, f"{metric}_scores.json")
+    out_file = os.path.join(base_dir, f"{metric}_bad_scores.json")
     with open(out_file, "w") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
@@ -81,8 +86,8 @@ def evaluate_folder(base_dir,  systems=("aya", "gemma", "zeromt", "opusmt"),
 if __name__ == "__main__":
     
     #export PYTHONPATH=$PYTHONPATH:/home/sami/mmt-eval/doc-mte/doc-bert/doc-mt-metrics/bert_score/
-    base_directory = "/home/sami/mmt-eval/doc-mte/MDPI Experiments/data"  # adjust as needed
-    evaluate_folder(base_directory, metric="chrf")
-    evaluate_folder(base_directory, metric="bleu")
-    evaluate_folder(base_directory, metric="ter")
+    base_directory = "/home/sami/mmt-eval/doc-mte/MDPI Experiments/data/comute"  # adjust as needed
+    evaluate_folder(base_directory, metric="chrf") #bad
+    evaluate_folder(base_directory, metric="bleu") #bad
+    evaluate_folder(base_directory, metric="ter") #bad
     

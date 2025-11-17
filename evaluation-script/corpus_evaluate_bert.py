@@ -27,7 +27,7 @@ def evaluate_folder(base_dir,  systems=("aya", "gemma", "zeromt", "opusmt"),
                 if not os.path.exists(cand_file):
                     continue
                 
-                ref_file = os.path.join(test_path, f"ref.{lang}")
+                ref_file = os.path.join(test_path, f"ref_bad.{lang}") #comute bad referece
                 refs = read_input_files(ref_file)
 
                 cands = read_input_files(cand_file)
@@ -48,7 +48,7 @@ def evaluate_folder(base_dir,  systems=("aya", "gemma", "zeromt", "opusmt"),
                 }
 
     # save everything into one JSON
-    out_file = os.path.join(base_dir, f"bert_doc_{str(doc)}_scores.json")
+    out_file = os.path.join(base_dir, f"bert_comute_bad_doc_{str(doc)}_scores.json")
     with open(out_file, "w") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
@@ -59,8 +59,8 @@ if __name__ == "__main__":
     
     #export PYTHONPATH=$PYTHONPATH:/home/sami/mmt-eval/doc-mte/doc-bert/doc-mt-metrics/bert_score/
     #environment source doc-bert-env/bin/activate
-    base_directory = "/home/sami/mmt-eval/doc-mte/MDPI Experiments/data/"  # adjust as needed
-    evaluate_folder(base_directory, doc=True)
+    base_directory = "/home/sami/mmt-eval/doc-mte/MDPI Experiments/data/comute"  # adjust as needed
+    evaluate_folder(base_directory, doc=True) #bad referece files
     
-    evaluate_folder(base_directory, doc=False)
+    evaluate_folder(base_directory, doc=False) #bad referece files
     

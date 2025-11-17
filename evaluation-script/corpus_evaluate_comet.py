@@ -66,7 +66,7 @@ def evaluate_folder(base_dir, model,  systems=("aya", "gemma", "zeromt", "opusmt
                 if not os.path.exists(cand_file):
                     continue
                 
-                ref_file = os.path.join(test_path, f"ref.{lang}")
+                ref_file = os.path.join(test_path, f"ref_bad.{lang}")
                 refs = read_input_files(ref_file)
 
                 cands = read_input_files(cand_file)
@@ -87,7 +87,7 @@ def evaluate_folder(base_dir, model,  systems=("aya", "gemma", "zeromt", "opusmt
                 }
                 # elif metric == "bertscore": --- IGNORE ---
     # save everything into one JSON
-    out_file = os.path.join(base_dir, f"comet_doc_{str(doc)}_scores.json")
+    out_file = os.path.join(base_dir, f"comet_comute_bad_doc_{str(doc)}_scores.json")
     with open(out_file, "w") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
@@ -98,8 +98,8 @@ if __name__ == "__main__":
     
     #export PYTHONPATH=$PYTHONPATH:/home/sami/mmt-eval/doc-mte/doc-bert/doc-mt-metrics/bert_score/
     #environment source /home/sami/mmt-eval/doc-mte/comet-env/bin/activate
-    base_directory = "/home/sami/mmt-eval/doc-mte/MDPI Experiments/data/"  # adjust as needed
+    base_directory = "/home/sami/mmt-eval/doc-mte/MDPI Experiments/data/comute"  # adjust as needed
     model = load_model("Unbabel/wmt22-comet-da")
-    evaluate_folder(base_directory, model=model, doc=True)
+    evaluate_folder(base_directory, model=model, doc=True) #bad ref
     
-    evaluate_folder(base_directory, model=model, doc=False)
+    evaluate_folder(base_directory, model=model, doc=False) #bad ref

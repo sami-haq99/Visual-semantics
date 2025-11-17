@@ -20,6 +20,9 @@ def add_context(orig_txt: List[str], context: List[str], doc_ids: List[str], sep
     while i < len(orig_txt):
         #if doc_ids[i] == doc_id:
             #context_window = context[i - min(k, ws):i]
+            print(orig_txt[i])
+            if isinstance(orig_txt[i], list):
+                orig_txt[i] = orig_txt[i][0]
             augm_txt.append(" {} ".format(sep_token).join([doc_ids[i]] + [orig_txt[i]]))
             i += 1
             print(augm_txt[i-1])
