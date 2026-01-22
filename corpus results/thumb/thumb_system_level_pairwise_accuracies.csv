@@ -1,0 +1,7 @@
+,pairwise_accuracy
+chrf,0.8
+comet,0.7
+comet_doc,0.7
+bleu,0.6
+bert,0.6
+bert_doc,0.6

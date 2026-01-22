@@ -166,21 +166,48 @@ def difference_heat_map(df_org, df_rerun):
     # Average differences across languages
     avg_diff = diff_df.groupby(["system", "metric"], as_index=False)["diff"].mean()
 
+    #rename systems for better visualization
+    system_rename = {
+        "gemma": "Gemma-3",
+        "zeromt": "ZeroMMT",
+        "aya": "Aya-23",
+        "opusmt": "Opus-MT"
+    }
+    #rename metrics for better visualization
+    metric_rename = {
+        "chrf": "CHRF",
+        "bleu": "BLEU",
+        "ter": "TER",
+        "bert": "BERTScore",
+        "bert_doc": "Doc-BERT",
+        "comet": "COMET",
+        "comet_doc": "Doc-COMET"
+    }
+    avg_diff["system"] = avg_diff["system"].map(system_rename)
+    avg_diff["metric"] = avg_diff["metric"].map(metric_rename)
     # Pivot for heatmap
     pivot = avg_diff.pivot(index="system", columns="metric", values="diff")
-    
-    system_order = ["gemma", "zeromt", "aya", "opusmt"]
-    metric_order = ["chrf", "bleu", "ter", "bert", "bert_doc","comet", "comet_doc"]
+
+    system_order = ["Gemma-3", "ZeroMMT", "Aya-23", "Opus-MT"]
+    metric_order = ["CHRF", "BLEU", "TER", "BERTScore", "Doc-BERT", "COMET", "Doc-COMET"]
+
     # Reindex pivot to follow this order
     pivot = pivot.reindex(index=system_order, columns=metric_order)
     
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(9, 5))
     sns.heatmap(pivot, annot=True, center=0, cmap="RdBu", fmt=".3f")
-    plt.title("Average Score Differences Across Languages (Original − Bad Reference)")
-    plt.ylabel("Systems")
-    plt.xlabel("Metrics")
-    #plt.show()
-    plt.savefig("heatmap_avg_diff_org_vs_bad_ref.pdf", bbox_inches='tight')
+    #plt.title("Average Score Differences Across Languages (Original − Bad Reference)")
+    #plt.ylabel("Systems")
+    #plt.xlabel("Metrics")
+    #remove x and y labels
+    plt.ylabel("")
+    plt.xlabel("")
+    #label the heatmap bar on the right side
+    cbar = plt.gcf().axes[-1]
+    cbar.set_ylabel('Average Score Difference', rotation=90, labelpad=15)
+    
+    plt.show()
+    #plt.savefig("heatmap_avg_diff_org_vs_bad_ref.pdf", bbox_inches='tight')
     
     
 
@@ -490,7 +517,7 @@ if __name__ == "__main__":
     plot_difference_chart(df_org, df_rerun)
     
     
-    #difference_heat_map(df_org, df_rerun)
+    difference_heat_map(df_org, df_rerun)
     
     #scatter_plot_org_ref_corr(df_org, df_rerun)
     
