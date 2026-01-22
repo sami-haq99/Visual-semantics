@@ -1,0 +1,5846 @@
+[
+  {
+    "items": [
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#48ef354.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Nehmen Sie die Arme runter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 17,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#8207d9b2.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, das Klebeband ist ausgegangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 38,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#e2f18daf.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen das Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 2,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#acb5659.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Irgendwo muss ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 44,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#9ef4910.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du mein Glas ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 12,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#f4f9494.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Kiste ist ziemlich schwer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 22,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#737c4103.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 14,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#40cc251e.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er kam endlich an der Bank an.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 3,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#a13f9a0.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 15,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#c0816da.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Wir m\u00fcssen dann wohl auf Poker verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 45,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#cc50c7e0.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Die Kassette ist leider leer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 37,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#edf9e44e.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Brust ist ziemlich schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 21,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#d9cbe61.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Das wei\u00df ich. Der letzte war ein echter Verr\u00fcckter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 29,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#230b2b4.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 27,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#8b24724.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 9,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#f8f9418.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Nehmen Sie die Arme runter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 18,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#32da2f5.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Wir m\u00fcssen dann wohl auf Poker verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 46,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#b599303.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte einfacher sein, mit einem Plektrum zu spielen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 31,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#b599303.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte mit einer Zange einfacher sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 31,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#d12293c.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er kam endlich an der Bank an.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 4,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#cf7bfad.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 10,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#a01e98cb.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 16,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#22f9dcb.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Es muss irgendwo ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 43,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#230b2b4.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Hosentr\u00e4ger.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 27,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#cc50c7e0.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, das Band ist gerade ausgegangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 37,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#c6249700.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es sind Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 13,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#247987b2.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Ich gebe mir keine M\u00fche um den Pokal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 48,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#dc8979e.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Brille ausprobieren?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 11,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#4bedbae4.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie sehen also, sie besitzen nicht einmal die Fabrik.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 6,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#c0816da.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir ohne Poker auskommen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 45,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#8207d9b2.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, die Kassettenrolle ist gerade leer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 38,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#a8b1169.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 23,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#c6249700.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 13,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#cc50c7e0.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, die Kassettenrolle ist gerade leer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 37,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#d12293c.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er hat es endlich zur Bank geschafft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 4,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#458999c.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 20,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#9ef4910.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "Willst du mir meine Brille leihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 12,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#32da2f5.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir ohne den Poker auskommen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 46,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#cce02b1.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 33,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#a8b1169.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 23,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#f4f9494.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Truhe ist ziemlich schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 22,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#dc8979e.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "Willst du mir meine Brille leihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 11,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#dc8979e.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Brille ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 11,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#c0816da.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir wohl auf das Pokerspiel verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 45,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#dc8979e.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Brille ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 11,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#40cc251e.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er schaffte es schlie\u00dflich zur Bank.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 3,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#68161a4.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Dort dr\u00fcben am Stift.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 26,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#b547ce7.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es gibt noch ein paar Fehler.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 7,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#e50fb00.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 24,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#737c4103.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Pommes in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 14,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#4bedbae4.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Siehst du, sie besitzen die Anlage ja nicht einmal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 6,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#32da2f5.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir auf das Pokern verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 46,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#d12293c.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er hat es endlich zur Bank geschafft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 4,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#32da2f5.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir wohl auf den Glutanz\u00fcnder verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 46,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#acb5659.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Es muss irgendwo ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 44,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#e9490cd.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen uns von diesem Maulwurf trennen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 1,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#9ef4910.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Gl\u00e4ser ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 12,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#22f9dcb.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Irgendwo muss ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 43,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#48ef354.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Legt eure Waffen nieder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 17,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#b599303.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte einfacher sein mit einer Auswahl.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 31,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#40cc251e.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er hat es endlich zum See geschafft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 3,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#8b12aebf.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben den Dichtungsring \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 39,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#b547ce7.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es gibt noch ein paar Fehler.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 7,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#230b2b4.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 27,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#4511cf4.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Port m\u00f6chte er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 36,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#d9cbe61.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Ich wei\u00df, der letzte war ein richtiger Spinner.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 29,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#a01e98cb.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Stiefel f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 16,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#458999c.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 20,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#a13f9a0.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 15,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#a9ee65f.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 28,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#2f05055.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Mir ist der Pokal egal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 47,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#7adadb10.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Die letzte war eine echte Nuss.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 30,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#a01e98cb.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 16,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#de257f1.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 35,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#a01e98cb.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 16,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#2f05055.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Ich gebe mir keine M\u00fche um den Pokal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 47,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#d8011246.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie besitzen die Pflanze ja nicht einmal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 5,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#7adadb10.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Ich wei\u00df, der letzte war ein richtiger Spinner.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 30,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#d8011246.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sehen Sie, sie besitzen nicht einmal die Pflanze.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 5,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#2f05055.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Der Becher ist mir schei\u00dfegal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 47,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#4511cf4.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 36,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#e20c4ff.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 19,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#cf7bfad.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 10,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#d01da65.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 34,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#22f9dcb.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Es muss irgendwo ein Loch im Aquarium sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 43,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#d01da65.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 34,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#e20c4ff.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 19,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#2caf5d9.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 41,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#e50fb00.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Balken scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 24,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#68161a4.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Da dr\u00fcben bei dem Stift.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 26,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#737c4103.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 14,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#d01da65.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 34,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#0316663.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren noch au\u00dfer Kontrolle.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 49,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#e9490cd.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen diesen Muttermal entfernen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 1,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#4bedbae4.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie sehen also, sie besitzen nicht einmal das Werk.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 6,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#a8b1169.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 23,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#a9ee65f.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Sie sind Klammern.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 28,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#de257f1.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 35,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#c6249700.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 13,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#e2f18daf.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen den Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 2,
+        "_item": "",
+        "isCompleteDocument": false
+      }
+    ],
+    "task": {
+      "batchNo": 1,
+      "randomSeed": 0,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "deu"
+    }
+  },
+  {
+    "items": [
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#8de21f5.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Da dr\u00fcben am Stall.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 25,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#d8011246.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie sehen also, sie besitzen nicht einmal die Fabrik.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 5,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#7adadb10.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Ich wei\u00df. Der letzte war ein echter Verr\u00fcckter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 30,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#d01da65.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 34,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#657c4a7.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 50,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#0316663.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 49,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#4a6ca5a.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte mit einer Hacke einfacher gehen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 32,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#8de21f5.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Dort dr\u00fcben am Zaun.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 25,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#0316663.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch nicht in Ordnung.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 49,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#de257f1.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen m\u00f6chte er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 35,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#d9cbe61.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Die letzte war eine echte Nuss.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 29,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#edf9e44e.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Brust ist ziemlich schwer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 21,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#de257f1.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 35,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#0316663.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 49,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#458999c.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss die Feder sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 20,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#8b12aebf.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie pr\u00fcften das Siegel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 39,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#657c4a7.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Ventilatoren waren noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 50,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#cce02b1.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Kreuzer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 33,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#a9ee65f.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 28,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#f4f9494.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Mein Brustkorb ist sehr schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 22,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#4a6ca5a.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte einfacher sein mit einer Auswahl.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 32,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#a9ee65f.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 28,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#cf7bfad.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir diesen Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 10,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#cce02b1.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 33,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#a13f9a0.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 15,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#458999c.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Das muss die Feder sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 20,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#59364b5.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben das Siegel \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 40,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#e20c4ff.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 19,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#d12293c.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er schaffte es schlie\u00dflich zur Bank.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 4,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#2caf5d9.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 41,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#c0816da.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir auf das Pokern verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 45,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#ef02ac2.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 42,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#acb5659.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Irgendwo muss ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 44,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#48ef354.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Legt eure Waffen nieder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 17,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#657c4a7.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Ventilatoren waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 50,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#d1f5f19.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar K\u00e4fer \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 8,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#68161a4.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Dort, bei der Feder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 26,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#b599303.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es w\u00e4re vielleicht einfacher mit einer Pfeife.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 31,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#247987b2.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Mir ist die Tasse egal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 48,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#8de21f5.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Da dr\u00fcben beim Stift.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 25,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#8b24724.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 9,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#40cc251e.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er hat es endlich bis an die Bank geschafft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 3,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#f8f9418.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Legt eure Waffen nieder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 18,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#657c4a7.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 50,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#22f9dcb.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Irgendwo muss ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 43,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#68161a4.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Da dr\u00fcben beim Stift.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 26,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#ef02ac2.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 42,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#edf9e44e.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Mein Brustkorb ist sehr schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 21,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#2f05055.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Der Kelch ist mir schei\u00dfegal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 47,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#4a6ca5a.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte mit einer Zange einfacher sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 32,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#8207d9b2.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Das Klebeband ist leider leer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 38,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#f8f9418.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Lass deine Arme sinken.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 18,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#9ef4910.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Brille ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 12,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#f8f9418.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Nehmen Sie die Arme runter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 18,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#8b12aebf.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben das Siegel \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 39,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#ef02ac2.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 42,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#8de21f5.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Dort, bei der Feder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 25,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#247987b2.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Der Kelch ist mir schei\u00dfegal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 48,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#cce02b1.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Kn\u00fcppel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 33,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#2caf5d9.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 41,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#cc50c7e0.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, das Band ist gerade ausgelaufen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 37,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#4a6ca5a.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es w\u00e4re vielleicht einfacher mit einem Pfl\u00fccker.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 32,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#59364b5.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben den Dichtungsring \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 40,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#e20c4ff.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 19,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#8207d9b2.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, das Band ist gerade ausgelaufen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 38,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#4511cf4.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Port will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 36,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#2caf5d9.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 41,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#e2f18daf.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen uns von diesem Maulwurf trennen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 2,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#f4f9494.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Brust ist ziemlich schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 22,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#e9490cd.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen den Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 1,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#a13f9a0.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 15,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#b547ce7.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar K\u00e4fer \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 7,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#d1f5f19.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Noch ein paar K\u00e4fer sind \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 8,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#ef02ac2.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 42,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#48ef354.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Nehmen Sie die Waffen runter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 17,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#e9490cd.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen den Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 1,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#acb5659.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Es muss irgendwo ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 44,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#247987b2.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Die Tasse ist mir schei\u00dfegal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 48,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#d8011246.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie besitzen nicht einmal die Pflanze.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 5,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#7adadb10.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Das wei\u00df ich. Der letzte war ein echter Verr\u00fcckter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 30,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#cf7bfad.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 10,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#4bedbae4.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sehen Sie, sie besitzen nicht einmal die Pflanze.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 6,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#e50fb00.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 24,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#d1f5f19.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar Fehler \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 8,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#8b24724.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir diesen Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 9,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#8b24724.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir das Schleifchen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 9,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#e2f18daf.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen den Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 2,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#a8b1169.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 23,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "gemma#commute#de#59364b5.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben die Robbe untersucht.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 40,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#e50fb00.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Balken scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 24,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#230b2b4.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Sie sind Klammern.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 27,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#8b12aebf.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben das Siegel \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 39,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#4511cf4.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 36,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#d1f5f19.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar K\u00e4fer \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 8,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#c6249700.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 13,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "opusmt#commute#de#edf9e44e.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Brust ist ziemlich schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 21,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#59364b5.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben die Seehunde \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 40,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#b547ce7.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar Fehler \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 7,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "aya#commute#de#d9cbe61.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Ich wei\u00df. Der letzte war ein echter Verr\u00fcckter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 29,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": [],
+        "documentID": "zeromt#commute#de#737c4103.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es sind Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 14,
+        "_item": "",
+        "isCompleteDocument": false
+      }
+    ],
+    "task": {
+      "batchNo": 2,
+      "randomSeed": 0,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "deu"
+    }
+  },
+  {
+    "items": [
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/48ef354.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#48ef354.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Nehmen Sie die Arme runter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 17,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8207d9b2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#8207d9b2.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, das Klebeband ist ausgegangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 38,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e2f18daf.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#e2f18daf.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen das Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 2,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/acb5659.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#acb5659.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Irgendwo muss ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 44,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/9ef4910.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#9ef4910.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du mein Glas ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 12,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/f4f9494.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#f4f9494.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Kiste ist ziemlich schwer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 22,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/737c4103.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#737c4103.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 14,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/40cc251e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#40cc251e.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er kam endlich an der Bank an.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 3,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a13f9a0.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#a13f9a0.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 15,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/c0816da.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#c0816da.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Wir m\u00fcssen dann wohl auf Poker verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 45,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cc50c7e0.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#cc50c7e0.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Die Kassette ist leider leer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 37,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/edf9e44e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#edf9e44e.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Brust ist ziemlich schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 21,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d9cbe61.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#d9cbe61.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Das wei\u00df ich. Der letzte war ein echter Verr\u00fcckter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 29,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/230b2b4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#230b2b4.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 27,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8b24724.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#8b24724.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 9,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/f8f9418.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#f8f9418.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Nehmen Sie die Arme runter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 18,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/32da2f5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#32da2f5.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Wir m\u00fcssen dann wohl auf Poker verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 46,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/b599303.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#b599303.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte einfacher sein, mit einem Plektrum zu spielen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 31,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/b599303.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#b599303.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte mit einer Zange einfacher sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 31,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d12293c.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#d12293c.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er kam endlich an der Bank an.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 4,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cf7bfad.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#cf7bfad.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 10,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a01e98cb.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#a01e98cb.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 16,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/22f9dcb.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#22f9dcb.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Es muss irgendwo ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 43,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/230b2b4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#230b2b4.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Hosentr\u00e4ger.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 27,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cc50c7e0.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#cc50c7e0.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, das Band ist gerade ausgegangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 37,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/c6249700.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#c6249700.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es sind Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 13,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/247987b2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#247987b2.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Ich gebe mir keine M\u00fche um den Pokal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 48,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/dc8979e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#dc8979e.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Brille ausprobieren?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 11,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4bedbae4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#4bedbae4.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie sehen also, sie besitzen nicht einmal die Fabrik.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 6,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/c0816da.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#c0816da.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir ohne Poker auskommen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 45,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8207d9b2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#8207d9b2.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, die Kassettenrolle ist gerade leer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 38,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a8b1169.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#a8b1169.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 23,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/c6249700.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#c6249700.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 13,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cc50c7e0.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#cc50c7e0.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, die Kassettenrolle ist gerade leer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 37,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d12293c.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#d12293c.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er hat es endlich zur Bank geschafft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 4,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/458999c.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#458999c.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 20,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/9ef4910.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#9ef4910.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "Willst du mir meine Brille leihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 12,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/32da2f5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#32da2f5.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir ohne den Poker auskommen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 46,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cce02b1.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#cce02b1.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 33,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a8b1169.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#a8b1169.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 23,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/f4f9494.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#f4f9494.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Truhe ist ziemlich schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 22,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/dc8979e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#dc8979e.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "Willst du mir meine Brille leihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 11,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/dc8979e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#dc8979e.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Brille ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 11,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/c0816da.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#c0816da.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir wohl auf das Pokerspiel verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 45,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/dc8979e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#dc8979e.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Brille ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 11,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/40cc251e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#40cc251e.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er schaffte es schlie\u00dflich zur Bank.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 3,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/68161a4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#68161a4.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Dort dr\u00fcben am Stift.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 26,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/b547ce7.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#b547ce7.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es gibt noch ein paar Fehler.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 7,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e50fb00.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#e50fb00.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 24,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/737c4103.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#737c4103.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Pommes in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 14,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4bedbae4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#4bedbae4.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Siehst du, sie besitzen die Anlage ja nicht einmal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 6,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/32da2f5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#32da2f5.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir auf das Pokern verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 46,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d12293c.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#d12293c.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er hat es endlich zur Bank geschafft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 4,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/32da2f5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#32da2f5.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir wohl auf den Glutanz\u00fcnder verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 46,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/acb5659.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#acb5659.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Es muss irgendwo ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 44,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e9490cd.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#e9490cd.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen uns von diesem Maulwurf trennen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 1,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/9ef4910.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#9ef4910.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Gl\u00e4ser ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 12,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/22f9dcb.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#22f9dcb.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Irgendwo muss ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 43,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/48ef354.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#48ef354.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Legt eure Waffen nieder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 17,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/b599303.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#b599303.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte einfacher sein mit einer Auswahl.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 31,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/40cc251e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#40cc251e.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er hat es endlich zum See geschafft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 3,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8b12aebf.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#8b12aebf.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben den Dichtungsring \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 39,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/b547ce7.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#b547ce7.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es gibt noch ein paar Fehler.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 7,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/230b2b4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#230b2b4.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 27,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4511cf4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#4511cf4.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Port m\u00f6chte er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 36,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d9cbe61.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#d9cbe61.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Ich wei\u00df, der letzte war ein richtiger Spinner.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 29,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a01e98cb.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#a01e98cb.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Stiefel f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 16,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/458999c.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#458999c.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 20,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a13f9a0.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#a13f9a0.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 15,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a9ee65f.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#a9ee65f.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 28,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/2f05055.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#2f05055.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Mir ist der Pokal egal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 47,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/7adadb10.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#7adadb10.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Die letzte war eine echte Nuss.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 30,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a01e98cb.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#a01e98cb.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 16,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/de257f1.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#de257f1.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 35,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a01e98cb.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#a01e98cb.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 16,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/2f05055.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#2f05055.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Ich gebe mir keine M\u00fche um den Pokal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 47,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d8011246.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#d8011246.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie besitzen die Pflanze ja nicht einmal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 5,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/7adadb10.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#7adadb10.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Ich wei\u00df, der letzte war ein richtiger Spinner.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 30,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d8011246.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#d8011246.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sehen Sie, sie besitzen nicht einmal die Pflanze.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 5,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/2f05055.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#2f05055.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Der Becher ist mir schei\u00dfegal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 47,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4511cf4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#4511cf4.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 36,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e20c4ff.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#e20c4ff.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 19,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cf7bfad.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#cf7bfad.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 10,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d01da65.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#d01da65.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 34,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/22f9dcb.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#22f9dcb.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Es muss irgendwo ein Loch im Aquarium sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 43,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d01da65.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#d01da65.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 34,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e20c4ff.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#e20c4ff.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 19,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/2caf5d9.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#2caf5d9.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 41,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e50fb00.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#e50fb00.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Balken scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 24,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/68161a4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#68161a4.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Da dr\u00fcben bei dem Stift.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 26,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/737c4103.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#737c4103.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 14,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d01da65.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#d01da65.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 34,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/0316663.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#0316663.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren noch au\u00dfer Kontrolle.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 49,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e9490cd.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#e9490cd.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen diesen Muttermal entfernen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 1,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4bedbae4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#4bedbae4.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie sehen also, sie besitzen nicht einmal das Werk.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 6,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a8b1169.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#a8b1169.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 23,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a9ee65f.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#a9ee65f.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Sie sind Klammern.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 28,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/de257f1.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#de257f1.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 35,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/c6249700.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#c6249700.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 13,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e2f18daf.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#e2f18daf.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen den Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 2,
+        "_item": "",
+        "isCompleteDocument": false
+      }
+    ],
+    "task": {
+      "batchNo": 3,
+      "randomSeed": 0,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "deu"
+    }
+  },
+  {
+    "items": [
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8de21f5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#8de21f5.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Da dr\u00fcben am Stall.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 25,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d8011246.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#d8011246.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie sehen also, sie besitzen nicht einmal die Fabrik.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 5,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/7adadb10.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#7adadb10.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Ich wei\u00df. Der letzte war ein echter Verr\u00fcckter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 30,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d01da65.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#d01da65.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 34,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/657c4a7.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#657c4a7.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 50,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/0316663.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#0316663.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 49,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4a6ca5a.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#4a6ca5a.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte mit einer Hacke einfacher gehen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 32,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8de21f5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#8de21f5.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Dort dr\u00fcben am Zaun.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 25,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/0316663.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#0316663.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch nicht in Ordnung.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 49,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/de257f1.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#de257f1.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen m\u00f6chte er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 35,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d9cbe61.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#d9cbe61.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Die letzte war eine echte Nuss.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 29,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/edf9e44e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#edf9e44e.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Brust ist ziemlich schwer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 21,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/de257f1.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#de257f1.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 35,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/0316663.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#0316663.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 49,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/458999c.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#458999c.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss die Feder sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 20,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8b12aebf.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#8b12aebf.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie pr\u00fcften das Siegel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 39,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/657c4a7.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#657c4a7.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Ventilatoren waren noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 50,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cce02b1.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#cce02b1.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Kreuzer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 33,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a9ee65f.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#a9ee65f.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 28,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/f4f9494.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#f4f9494.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Mein Brustkorb ist sehr schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 22,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4a6ca5a.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#4a6ca5a.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte einfacher sein mit einer Auswahl.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 32,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a9ee65f.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#a9ee65f.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Das sind Zahnspangen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 28,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cf7bfad.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#cf7bfad.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir diesen Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 10,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cce02b1.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#cce02b1.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Club.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 33,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a13f9a0.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#a13f9a0.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 15,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/458999c.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#458999c.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Das muss die Feder sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 20,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/59364b5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#59364b5.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben das Siegel \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 40,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e20c4ff.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#e20c4ff.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 19,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d12293c.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#d12293c.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er schaffte es schlie\u00dflich zur Bank.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 4,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/2caf5d9.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#2caf5d9.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 41,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/c0816da.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#c0816da.jpeg",
+        "sourceText": "We're going to have to do without the poker then.",
+        "targetText": "Dann m\u00fcssen wir auf das Pokern verzichten.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 45,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/ef02ac2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#ef02ac2.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 42,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/acb5659.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#acb5659.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Irgendwo muss ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 44,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/48ef354.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#48ef354.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Legt eure Waffen nieder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 17,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/657c4a7.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#657c4a7.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Ventilatoren waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 50,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d1f5f19.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#d1f5f19.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar K\u00e4fer \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 8,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/68161a4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#68161a4.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Dort, bei der Feder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 26,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/b599303.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#b599303.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es w\u00e4re vielleicht einfacher mit einer Pfeife.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 31,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/247987b2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#247987b2.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Mir ist die Tasse egal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 48,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8de21f5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#8de21f5.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Da dr\u00fcben beim Stift.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 25,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8b24724.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#8b24724.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 9,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/40cc251e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#40cc251e.jpeg",
+        "sourceText": "He finally made it to the bank.",
+        "targetText": "Er hat es endlich bis an die Bank geschafft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 3,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/f8f9418.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#f8f9418.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Legt eure Waffen nieder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 18,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/657c4a7.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#657c4a7.jpeg",
+        "sourceText": "The fans were still out of order.",
+        "targetText": "Die Fans waren immer noch au\u00dfer Betrieb.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 50,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/22f9dcb.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#22f9dcb.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Irgendwo muss ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 43,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/68161a4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#68161a4.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Da dr\u00fcben beim Stift.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 26,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/ef02ac2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#ef02ac2.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 42,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/edf9e44e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#edf9e44e.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Mein Brustkorb ist sehr schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 21,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/2f05055.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#2f05055.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Der Kelch ist mir schei\u00dfegal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 47,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4a6ca5a.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#4a6ca5a.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es k\u00f6nnte mit einer Zange einfacher sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 32,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8207d9b2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#8207d9b2.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Das Klebeband ist leider leer.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 38,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/f8f9418.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#f8f9418.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Lass deine Arme sinken.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 18,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/9ef4910.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#9ef4910.jpeg",
+        "sourceText": "Do you want to borrow my glasses?",
+        "targetText": "M\u00f6chtest du meine Brille ausleihen?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 12,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/f8f9418.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#f8f9418.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Nehmen Sie die Arme runter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 18,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8b12aebf.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#8b12aebf.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben das Siegel \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 39,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/ef02ac2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#ef02ac2.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 42,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8de21f5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#8de21f5.jpeg",
+        "sourceText": "Over there by the pen.",
+        "targetText": "Dort, bei der Feder.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 25,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/247987b2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#247987b2.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Der Kelch ist mir schei\u00dfegal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 48,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cce02b1.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#cce02b1.jpeg",
+        "sourceText": "I have a club.",
+        "targetText": "Ich habe einen Kn\u00fcppel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 33,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/2caf5d9.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#2caf5d9.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 41,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cc50c7e0.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#cc50c7e0.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, das Band ist gerade ausgelaufen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 37,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4a6ca5a.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#4a6ca5a.jpeg",
+        "sourceText": "It might be easier with a pick.",
+        "targetText": "Es w\u00e4re vielleicht einfacher mit einem Pfl\u00fccker.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 32,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/59364b5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#59364b5.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben den Dichtungsring \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 40,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e20c4ff.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#e20c4ff.jpeg",
+        "sourceText": "It must be the spring.",
+        "targetText": "Es muss der Fr\u00fchling sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 19,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8207d9b2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#8207d9b2.jpeg",
+        "sourceText": "Sorry, the tape's just run out.",
+        "targetText": "Tut mir leid, das Band ist gerade ausgelaufen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 38,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4511cf4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#4511cf4.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Port will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 36,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/2caf5d9.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#2caf5d9.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 41,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e2f18daf.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#e2f18daf.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen uns von diesem Maulwurf trennen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 2,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/f4f9494.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#f4f9494.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Brust ist ziemlich schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 22,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e9490cd.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#e9490cd.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen den Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 1,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a13f9a0.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#a13f9a0.jpeg",
+        "sourceText": "First we should fill up the boot.",
+        "targetText": "Zuerst sollten wir den Kofferraum f\u00fcllen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 15,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/b547ce7.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#b547ce7.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar K\u00e4fer \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 7,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d1f5f19.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#d1f5f19.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Noch ein paar K\u00e4fer sind \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 8,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/ef02ac2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#ef02ac2.jpeg",
+        "sourceText": "Why is the chair here?",
+        "targetText": "Warum ist der Stuhl hier?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 42,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/48ef354.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#48ef354.jpeg",
+        "sourceText": "Put down your arms.",
+        "targetText": "Nehmen Sie die Waffen runter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 17,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e9490cd.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#e9490cd.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen den Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 1,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/acb5659.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#acb5659.jpeg",
+        "sourceText": "There must be a hole in the tank somewhere.",
+        "targetText": "Es muss irgendwo ein Loch im Tank sein.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 44,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/247987b2.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#247987b2.jpeg",
+        "sourceText": "I don't give a damn about the cup.",
+        "targetText": "Die Tasse ist mir schei\u00dfegal.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 48,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d8011246.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#d8011246.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sie besitzen nicht einmal die Pflanze.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 5,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/7adadb10.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#7adadb10.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Das wei\u00df ich. Der letzte war ein echter Verr\u00fcckter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 30,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/cf7bfad.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#cf7bfad.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir den Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 10,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4bedbae4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#4bedbae4.jpeg",
+        "sourceText": "So you see, they don't even own the plant.",
+        "targetText": "Sehen Sie, sie besitzen nicht einmal die Pflanze.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 6,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e50fb00.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#e50fb00.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 24,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d1f5f19.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#d1f5f19.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar Fehler \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 8,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8b24724.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#8b24724.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir diesen Bogen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 9,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8b24724.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#8b24724.jpeg",
+        "sourceText": "Hand me that bow.",
+        "targetText": "Gib mir das Schleifchen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 9,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e2f18daf.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#e2f18daf.jpeg",
+        "sourceText": "We'll have to get rid of that mole.",
+        "targetText": "Wir m\u00fcssen den Maulwurf loswerden.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 2,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/a8b1169.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#a8b1169.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Strahl scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 23,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/59364b5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "gemma#commute#de#59364b5.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben die Robbe untersucht.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "gemma",
+        "itemID": 40,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/e50fb00.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#e50fb00.jpeg",
+        "sourceText": "The beam seems to be moving.",
+        "targetText": "Der Balken scheint sich zu bewegen.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 24,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/230b2b4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#230b2b4.jpeg",
+        "sourceText": "They're braces.",
+        "targetText": "Sie sind Klammern.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 27,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/8b12aebf.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#8b12aebf.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben das Siegel \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 39,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/4511cf4.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#4511cf4.jpeg",
+        "sourceText": "Which port does he want?",
+        "targetText": "Welchen Hafen will er?",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 36,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d1f5f19.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#d1f5f19.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar K\u00e4fer \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 8,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/c6249700.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#c6249700.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es gibt Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 13,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/edf9e44e.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "opusmt#commute#de#edf9e44e.jpeg",
+        "sourceText": "My chest is quite heavy...",
+        "targetText": "Meine Brust ist ziemlich schwer...",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "opusmt",
+        "itemID": 21,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/59364b5.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#59364b5.jpeg",
+        "sourceText": "They checked the seal.",
+        "targetText": "Sie haben die Seehunde \u00fcberpr\u00fcft.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 40,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/b547ce7.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#b547ce7.jpeg",
+        "sourceText": "There are still a couple of bugs left.",
+        "targetText": "Es sind noch ein paar Fehler \u00fcbrig.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 7,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/d9cbe61.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "aya#commute#de#d9cbe61.jpeg",
+        "sourceText": "I know. The last one was a real nut.",
+        "targetText": "Ich wei\u00df. Der letzte war ein echter Verr\u00fcckter.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "aya",
+        "itemID": 29,
+        "_item": "",
+        "isCompleteDocument": false
+      },
+      {
+        "mqm": {
+          "tutorial": {
+            "instruction": "<img src=\"/media/737c4103.jpeg\" alt=\"Screenshot\" style=\"max-width:100%; height:auto; display:block; margin:auto;\" />"
+          },
+          "payload": []
+        },
+        "documentID": "zeromt#commute#de#737c4103.jpeg",
+        "sourceText": "There are chips in a bowl.",
+        "targetText": "Es sind Chips in einer Sch\u00fcssel.",
+        "itemType": "TGT",
+        "sourceID": "de",
+        "targetID": "zeromt",
+        "itemID": 14,
+        "_item": "",
+        "isCompleteDocument": false
+      }
+    ],
+    "task": {
+      "batchNo": 4,
+      "randomSeed": 0,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "deu"
+    }
+  }
+]
